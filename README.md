@@ -1,4 +1,4 @@
-# Toturial github
+# Tutorial github
 
 ## Goals
 
@@ -11,3 +11,4 @@
 + Reset
 + Revert
 + Checkout
++ Issue
